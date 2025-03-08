@@ -16,7 +16,7 @@ This repository contains the source code of the data management program of a fic
 <ol>
 <li>Clone this repository to your local machine using the following command:
 
-```git clone https://github.com/ralvarezdev/uru-the-bank-of-wall-street```
+```git clone https://github.com/ralvarezdev/uru-programming-2-the-bank-of-wall-street```
 </li>
 
 <li>Change your Current Working Directory to where the repository was cloned</li>
